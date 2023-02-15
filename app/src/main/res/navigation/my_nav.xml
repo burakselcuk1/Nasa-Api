@@ -6,6 +6,6 @@
 
     <fragment
         android:id="@+id/BTCFragment"
-        android:name="com.example.basestructure.ui.btcFrgament.BTCFragment"
+        android:name="com.example.base.ui.btcFrgament.BTCFragment"
         android:label="BTCFragment" />
 </navigation>
